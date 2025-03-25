@@ -1,0 +1,8 @@
+prefix=/home/mo/catkin_ws/install
+
+Name: first
+Description: Description of first
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
